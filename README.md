@@ -8,6 +8,8 @@ Aqui você encontrará três arquivos, são eles:
 * EDA Marketing Campaign (Anexos)
 * EDA Marketing Campaign (Relatório sem Anexos)
 
+Os anexos representam todos os gráficos das análises bivariadas referente a todas as 6 campanhas, por conta disso sua tamanha extensão.
+
 Devido a quantidade de imagens em anexo, foi criado um arquivo só com essas imagens e um arquivo só com o relatório. Porém o relatório completo contempla ambos.
 
 Todo o projeto foi desenvolvido em Python pelo Colab, então caso queira acessar, segue o link:
