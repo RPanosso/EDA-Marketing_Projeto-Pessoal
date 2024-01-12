@@ -7,6 +7,7 @@ Aqui você encontrará três arquivos, são eles:
 * EDA Marketing Campaign (Relatório Completo)
 * EDA Marketing Campaign (Anexos)
 * EDA Marketing Campaign (Relatório sem Anexos)
+* EDA Marketing - Dataset
 
 Os anexos representam todos os gráficos das análises bivariadas referente a todas as 6 campanhas, por conta disso sua tamanha extensão.
 
@@ -14,3 +15,6 @@ Devido a quantidade de imagens em anexo, foi criado um arquivo só com essas ima
 
 Todo o projeto foi desenvolvido em Python pelo Colab, então caso queira acessar, segue o link:
 [Link do Projeto](https://colab.research.google.com/drive/1frm-itVagiYRwWPFodL26-0MYH6Wiuwz?usp=sharing)
+
+Além disso fica disponibilizado o dataset usado, que está disponível também no Kaggle:
+[Link Dataset - Kaggle](https://www.kaggle.com/datasets/georgerocha/ifooddataadvancedanalyticstest/data)
