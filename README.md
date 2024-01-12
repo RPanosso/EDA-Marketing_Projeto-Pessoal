@@ -4,9 +4,9 @@ Este repositório é sobre um projeto pessoal desenvolvido para colocar em prát
 
 Aqui você encontrará três arquivos, são eles:
 
-* EDA Marketing Campaign.pdf (Relatório Completo)
-* EDA Marketing Campaign.pdf (Anexos)
-* EDA Marketing Campaign.pdf (Relatório sem Anexos)
+* EDA Marketing Campaign (Relatório Completo)
+* EDA Marketing Campaign (Anexos)
+* EDA Marketing Campaign (Relatório sem Anexos)
 
 Devido a quantidade de imagens em anexo, foi criado um arquivo só com essas imagens e um arquivo só com o relatório. Porém o relatório completo contempla ambos.
 
